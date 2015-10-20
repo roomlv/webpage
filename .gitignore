@@ -1,0 +1,8 @@
+# jerkyll
+_site
+.sass-cache
+
+# IDE files
+*.iml
+.idea
+
